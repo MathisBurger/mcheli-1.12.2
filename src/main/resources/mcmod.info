@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "mcheli",
+        "name": "A fork of the mc heli mod for 1.12.2",
+        "description": "None",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "requiredMods": [
+            "forgelin"
+        ],
+        "dependencies": []
+    }
+]
